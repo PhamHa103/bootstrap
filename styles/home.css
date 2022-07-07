@@ -1,0 +1,22 @@
+#content-header{
+    background-color:#f6f6f6 ;
+}
+/* desktop */
+@media only screen and (min-width: 992px){
+    #content-header{
+        height: 280px;
+    }
+    #content-header p{
+        width: 50%;
+    }
+}
+
+/* tablet */
+@media only screen and (min-width: 768px) and (max-width: 991px){
+
+}
+
+/* mobile */
+@media only screen and (max-width: 767px){
+
+}
